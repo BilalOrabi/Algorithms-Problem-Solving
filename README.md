@@ -91,10 +91,3 @@ Covers **joins, filtering, grouping, subqueries, CASE, aggregates, and randomiza
 - **Concepts:** Algorithms, Modular Programming, File I/O, RDBMS  
 
 ---
-
-## 🚀 How to Run
-
-### C++ Programs
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/your-username/algo-sql-procedural.git
